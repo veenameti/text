@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        .container {
+
+            font-family: Arial, sans-serif;
+        display: flex;
+        align-items: center;
+        width: 340px;
+            background-color:white;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            break-after:right;
+
+        }
+        .right-side {
+        margin-left: 150px; 
+        }
+        .new{
+            font-weight: bold;
+        }
+        img{
+            
+            width: 50px; 
+            height: 50px;
+            border-radius: 50%; 
+            object-fit: cover;
+            margin-right: 20px;
+             
+        }
+        button{
+            
+            opacity: 0.8;
+                    padding: 5px 5px;
+                    
+                    border-radius: 10px;
+                    
+                    background-color:rgb(5, 130, 255);
+                    float: right;
+                    margin-right: 20px;
+                    
+        
+        }
+        .container2 {
+        display: flex;
+        align-items: center;
+        width: 330px;
+            background-color:white;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            break-after:right;
+        }
+        .container3 {
+        display: flex;
+        align-items: center;
+        width: 330px;
+            background-color:white;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            break-after:right;
+        
+        }
+    </style>
+
+</head>
+<body><div>
+    <div class="container">
+        <img src="C:\Users\Bharath\Downloads\drive-download-20230917T120647Z-001\img1.jpg" alt="Circular Image" class="circular-image">
+        
+        <div>
+         <div class="new">oliver<div1>
+           <div style="color: #555555;">the cat</div>
+           <div style="color: #555555;">popular</div>
+           
+         </div>
+       </div>
+       <div class="right-side">
+       <button>Follow</button>
+     </div>
+     <div></div>
+     <div class="container2">
+        <img src="C:\Users\Bharath\Pictures\Iphone photos\IMG_1819.jpeg" alt="Circular Image" class="circular-image">
+        
+        <div>
+         <div class="new">Mimi<div1>
+           <div style="color: #555555;">Sleepy Cat</div>
+           <div style="color: #555555;">popular</div>
+           
+         </div>
+       </div>
+       <div class="right-side">
+       <button>Follow</button>
+     </div>
+    </div>
+     <div>
+     <div class="container3">
+        <img src="C:\Users\Bharath\Pictures\Iphone photos\IMG_1899.jpeg" alt="Circular Image" class="circular-image">
+        
+        <div>
+         <div class="new">Rex<div1>
+           <div style="color: #555555;">Happy Buildog</div>
+           <div style="color: #555555;"> Popular</div>
+           
+         </div>
+       </div>
+       <div class="right-side">
+       <button>Follow</button>
+     </div>
+    </div>
+</body>
+</html>

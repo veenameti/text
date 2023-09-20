@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        
+        
+        p1{
+            font-size: 18px; 
+            font-weight: bold;
+            font-family: "Tahoma", sans-serif;
+           
+        }
+        p2{
+            font-size: 18px; 
+            font-weight: bold;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-bottom: 20px;
+            line-height: 1.5;
+        }
+        p3{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        p4{
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 18px; 
+            font-weight: bold;
+        }
+        p5{
+            color: #555555;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            
+
+        }
+        P6{
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            padding-bottom: 28%;
+            line-height: 2.5;
+            
+           
+        }
+        button{
+            padding-bottom: 28%;
+            padding: 10px 30px;
+            
+            border-radius: 3px;
+        }
+        
+        
+
+        
+        P10{
+            line-height: 1.5;
+            font-size: 20px;
+            
+
+        }
+        P11{
+            line-height: 1.5;
+            color: #555555;
+            font-size: 10px;
+
+        }p12{
+            line-height: 1.5;
+            color: limegreen;
+
+        }p13{
+            line-height: 1.5;
+            color: #555555;
+            
+
+        }p14{
+            
+            text-align: center;
+            color: red;
+
+        }
+        p15{
+            font-weight: bold;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+
+        }
+        p16{
+            color: #555555;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-bottom: 20px;
+
+        }p17{
+           
+            font-family: Arial, Helvetica, sans-serif;
+
+        }p18{
+            
+            font-family: Arial, Helvetica, sans-serif;
+
+        }p19{
+            color: cornflowerblue;
+            
+            font-family: Arial, Helvetica, sans-serif;
+
+        }p20{
+            
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+        .center {
+            
+            text-align: center; 
+        }
+    
+   
+    </style>
+</head>
+<body>
+    <p1>This is Tahoma font</p1>
+    <br>
+    <p>&nbsp;</p>
+    <p2> Biggest Deals of the Year!</p2><br>
+    
+    <p3 style="color: coral;">Sales end Tuesday</p3>
+    <p>&nbsp;</p>
+    <p4>HTML CSS Course</p4><br>
+
+    <p5>Begineer to pro</p5><br>
+ 
+    <p6>In this course, we;ll learn the skills you need to become a developer.</p6><br>
+    
+    <button style="background-color: green;"> Get Started</button>
+    <p>&nbsp;</p>
+    
+
+    
+    <p10 >1,049.61</p10>
+    <p11>USD</p11><br>
+    <p12>+18.05(1.75%) today</p12><br>
+    <p13>After hours 1,048.00</p13>
+    <p14>-1.61 (0.15%)</p14>
+    <p>&nbsp;</p>
+    <p15>freeCodeCamp.org</p15><p16>@freeCodeCamp 1h</p16><br>
+    <p17>As a web developer, you'll want to make your projects easy to use and navigate around.</p17><br>
+    <p18>Here</p18><p19>@chp_it</p19><p20>outlines the top skillsnew developers should have</p20><br>
+
+    
+    
+
+
+</body>
+</html>

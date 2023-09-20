@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Box and Image Example</title>
+</head>
+<body>
+    <table border="0" align="center">
+        <tr>
+            <td>
+                <img src="C:\Users\ASUS\Desktop\KANTA\download.jpeg"></td>
+                <img src="C:\Users\ASUS\Desktop\KANTA\photos\COORG 2K22\IMG_20221105_100500.jpg" height="200" width="100" style="border-radius:10%"></td>
+                <img src="C:\Users\ASUS\Desktop\KANTA\photos\COORG 2K22\IMG_20221106_154310.jpg" height="200" width="200" style="border-radius: 100%"></td>
+            </tr>
+    </table>
+</body>
+</html>

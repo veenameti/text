@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+
+        </head>
+        <body>
+                <form>
+                    <label for="username"></label>
+                    <input type="text" name="username" id="username" placeholder="Enter your username"><br><br>
+                  
+                    <label for="email"></label>
+                    <input type="text" name="email" id="email" placeholder="Enter your email"><br><br>
+                  </form>
+                  
+            <p>Thanks for chatting with our custmore support. Would you like to take our quick suvery?</p>
+                <button>yes</button>
+                <button>no</button>
+                <div>&nbsp;</div>
+            <a href="http://www.google.com">
+                Google
+                </a>     
+        </body>
+    </html>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign up form</title>
+</head>
+     <style>
+        .container{
+            display: flex;
+            justify-content: space-between;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        .box{
+            border: 2px solid;
+            padding: 10px;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+
+        .box label{
+            display: block;
+            font-weight: bold;
+        }
+     </style>
+<body>
+    <form>
+    
+        <input type="text"id="first_name" placeholder="first name"  name="first_name"required>
+        
+        <input type="text"id="last_name" placeholder="last name"name="last_name"required>
+        <div></div>
+        <input  type="email"id="email"placeholder="email"name="email"required><br><br>
+  
+    
+       <input style="background-color: blue;" type="submit" value="Sign Up">
+    
+</form>
+<h1> Request a ride now</h1> 
+                <input type="text" name="username" id="username" placeholder="Enter pickup location"><br><br>
+                <input type="text" name="username" id="username" placeholder="Enter destination"><br><br>
+                <button style="height: 30px; width: 80px; background-color: blueviolet">Request</button>
+                <input type="text" name="username" id="username" placeholder="schedule for later"><br><br>
+    
+    
+    
+</body>
+</html>

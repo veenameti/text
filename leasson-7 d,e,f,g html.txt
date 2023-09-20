@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .l1{
+                opacity: 0.2;
+                border-radius: 10px;
+            }
+            
+      form {
+       display: flex;
+        align-items: center;
+         }
+        </style>
+    </head>
+    <body>
+       <form>
+            <table>
+                <tr>
+                    <td><input id="l1" type="text-center" placeholder="Search" style="border-radius: 20px;"></td>
+                </tr>
+            </table>
+            
+        </form>
+        <form action="https://www.google.com/search">
+            <table>
+                
+                <input id="l1" name="q" type="text-center" placeholder="Search Google or Type Url" style="border-radius: 20px; padding-right: 60%;padding-block: 10px; opacity: 0.8;place-content: left: 30px;">
+                        <input type="submit" value="Search">
+                    
+                
+            </table>
+            
+        </form>
+        <form>
+            <div style="width: 300px; height: 100px; ">
+                <span>Email</span>
+                <input id="l1" type="text-center"  style="width: 90%;">
+            
+                    <p style="width: 100%;">By Clicking the Agree & join,you agree privcy and policy</p>
+                   
+                     <button style="border-radius: 30px;background-color: blue; width: 100%;padding-block: 10px;">Agree & join</button>
+
+            </div>
+            
+        </form>
+        <div>
+            <div >
+                <table style="width: 300px; height: 100px; flex-direction: column;background-color: azure;">
+                <tr >
+                    <div>&nbsp;</div>
+                  <td><img src="C:\Users\ASUS\Downloads\cat.avif"height="40px"width="40px"  style="border-radius: 30px;"></td> 
+                   <td><span>what's happening</span></td> 
+                 <td> <button style="border-radius: 20px; background-color: blue;block-size: 30px;">Tweet</button></td> 
+                </tr>
+               </table>
+            </div>
+
+        </div>
+    </body>
+</html>

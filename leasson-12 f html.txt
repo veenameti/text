@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            button{
+                float: right;
+                    margin-right: 20px;
+                    align-items: center;
+                    display: flex;
+        align-items: center;
+            }
+            
+            
+        </style>
+    </head>
+    <body>
+        <div style="background-color: blueviolet; height: 30px;">
+            <a>HOME</a><a style="padding-left: 70px;"></a>
+            <input type="text" style="border-radius: 20px;width: 400px;" placeholder="search"><button >Download</button>
+        </div>
+    </body>
+</html>

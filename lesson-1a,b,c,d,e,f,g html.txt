@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            button{
+                font-size:40px;
+                padding: 10px;
+                border-radius:10px;
+                margin: 20px;
+
+            }
+            .spaced-text{
+                line-height: 1.5;
+                text-align: center;
+            }
+        </style>
+    
+    </head>
+    <body>
+        <div>
+        <button>click</button>
+    </div>
+
+    <div>
+    <button>Simon</button><button>chocolate</button>
+    </div>
+    <div>
+    <p>
+        Hello, World!
+    </p>
+</div>
+<div>
+    <p>
+        Hello,world!
+    </p>
+    
+    <div>
+        <p>
+        Today I went to the grocery stoe to buy some eggs and vegetables.
+   
+    </p>
+    <div>
+        <a href="https://www.google.com/webhp"class="spaced-text"> Search with google</a>
+    
+</div>
+<div>
+    <a href="https://www.google.com/webhp"  target="_blank" class="spaced-text"> Search with google</a>
+   
+</div>
+</div>
+</div>
+<div>
+    <a href="https://www.amazon.in" target="_blank"class="spaced-text"> Back to Amezon</a>
+    <p> Nike Black Running Shoes</p>
+    <p> $39 - in stock</p>
+    <p> Free delivery tommarow</p>
+    <button>Add to Cart</button><button>Buy now</button>
+
+    
+</div>
+
+
+
+    </body>
+        </html>

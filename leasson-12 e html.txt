@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Box</title>
+    <style>
+        
+        .chat-box {
+            width: 300px;
+            background-color:white;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            font-family: Arial, sans-serif;
+        }
+
+        
+        .chat-tab {
+            padding: 10px;
+            text-align:left;
+            cursor: pointer;
+        }
+
+        .chat-tab:hover {
+            background-color: #ddd;
+        }
+
+        .active-tab {
+            background-color: #fcfcfc;
+            color:black;
+        }
+
+
+        .chat-content {
+            padding: 10px;
+        }
+        button{
+            
+            opacity: 0.8;
+                    padding: 5px 5px;
+                    
+                    border-radius: 10px;
+                    
+                    background-color:rgb(5, 130, 255);
+                    float: right;
+                    margin-right: 20px;
+                    
+        
+        }
+        
+        
+
+    </style>
+</head>
+<body>
+    <div class="chat-box">
+        <div class="chat-tab active-tab">Home <button>14</button></div>
+        <div class="chat-tab">Notifications <button>3</button></div>
+        <div class="chat-tab">Messages <button>5</button></div>
+        <div class="chat-content">
+
+            
+        </div>
+    </div>
+   <div>&nbsp;</div>
+   <div>&nbsp;</div>
+   <div>&nbsp;</div>
+
+
+ 
+</body>
+</html>
